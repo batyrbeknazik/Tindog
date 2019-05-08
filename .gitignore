@@ -1,1 +1,13 @@
-.DS_Store
+.idea/*
+virtuallenv/*
+*.sqlite3
+*.db
+*static
+node_modules/*
+media/*
+locale
+*local*
+*.venv
+venv/*
+/dump.rdb
+.vscode
